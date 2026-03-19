@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "sister_prak1/1.0.0": {
+        "runtime": {
+          "sister_prak1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sister_prak1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

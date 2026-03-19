@@ -1,0 +1,7 @@
+CO1,Igo Tegar Prambudhy,Jakarta
+CO2,Rizky Saputra,Bandung
+CO3,Rahmat Soleh,Cirebon
+CO4,Andhika Ridho,Cilacap
+CO5,Zahid Ridwan,Surabaya
+C06,Santi Saputri,Semarang
+C07,Eka Purnama,Serang

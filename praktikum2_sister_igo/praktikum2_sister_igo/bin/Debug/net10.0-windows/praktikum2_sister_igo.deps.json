@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "praktikum2_sister_igo/1.0.0": {
+        "runtime": {
+          "praktikum2_sister_igo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "praktikum2_sister_igo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

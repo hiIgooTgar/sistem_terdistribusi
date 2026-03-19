@@ -1,0 +1,7 @@
+C01,Igo Tegar Prambudhy,Jakarta
+C02,Edward Alseon,Bandung
+C03,Hamzah Zufron,Cirebon
+C04,Trens Rwend,Manado
+C05,Jamal Saputra,Yogyakarta
+C06,Ayu Saputri Indah Permatasari,Semarang
+C07,Jessica Amelia,Surabaya
