@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\24sa11a159\\praktikum2_sister_igo - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB276F7-FD9A-1E26-F72E-64CC3D664534}|praktikum2_sister_igo\\praktikum2_sister_igo.csproj|d:\\24sa11a159\\praktikum2_sister_igo - copy\\praktikum2_sister_igo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AB276F7-FD9A-1E26-F72E-64CC3D664534}|praktikum2_sister_igo\\praktikum2_sister_igo.csproj|solutionrelative:praktikum2_sister_igo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB276F7-FD9A-1E26-F72E-64CC3D664534}|praktikum2_sister_igo\\praktikum2_sister_igo.csproj|d:\\24sa11a159\\praktikum2_sister_igo - copy\\praktikum2_sister_igo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB276F7-FD9A-1E26-F72E-64CC3D664534}|praktikum2_sister_igo\\praktikum2_sister_igo.csproj|solutionrelative:praktikum2_sister_igo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\24sa11a159\\praktikum2_sister_igo - Copy\\praktikum2_sister_igo\\Form1.cs",
+              "RelativeDocumentMoniker": "praktikum2_sister_igo\\Form1.cs",
+              "ToolTip": "D:\\24sa11a159\\praktikum2_sister_igo - Copy\\praktikum2_sister_igo\\Form1.cs [Design]",
+              "RelativeToolTip": "praktikum2_sister_igo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T05:27:04.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\24sa11a159\\praktikum2_sister_igo - Copy\\praktikum2_sister_igo\\Form1.cs",
+              "RelativeDocumentMoniker": "praktikum2_sister_igo\\Form1.cs",
+              "ToolTip": "D:\\24sa11a159\\praktikum2_sister_igo - Copy\\praktikum2_sister_igo\\Form1.cs",
+              "RelativeToolTip": "praktikum2_sister_igo\\Form1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:58:15.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
