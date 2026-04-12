@@ -1,0 +1,14 @@
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\bin\Debug\net10.0\praktikum_3_igo_sister.exe
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\bin\Debug\net10.0\praktikum_3_igo_sister.deps.json
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\bin\Debug\net10.0\praktikum_3_igo_sister.runtimeconfig.json
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\bin\Debug\net10.0\praktikum_3_igo_sister.dll
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\bin\Debug\net10.0\praktikum_3_igo_sister.pdb
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\obj\Debug\net10.0\praktikum_3_igo_sister.GeneratedMSBuildEditorConfig.editorconfig
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\obj\Debug\net10.0\praktikum_3_igo_sister.AssemblyInfoInputs.cache
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\obj\Debug\net10.0\praktikum_3_igo_sister.AssemblyInfo.cs
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\obj\Debug\net10.0\praktikum_3_igo_sister.csproj.CoreCompileInputs.cache
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\obj\Debug\net10.0\praktikum_3_igo_sister.dll
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\obj\Debug\net10.0\refint\praktikum_3_igo_sister.dll
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\obj\Debug\net10.0\praktikum_3_igo_sister.pdb
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\obj\Debug\net10.0\praktikum_3_igo_sister.genruntimeconfig.cache
+D:\24sa11a159_sister\praktikum_3_igo_sister\praktikum_3_igo_sister\obj\Debug\net10.0\ref\praktikum_3_igo_sister.dll
