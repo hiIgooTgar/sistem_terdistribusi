@@ -1,24 +1,55 @@
-Judul
-{
-    display:block; font-size:16pt; margin-top:20pt; font-weight:bold; color: #FF0000;
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
 
-Sutradara, Genre, Studio
-{
-    display:block; font-size:12pt;
+Koleksi {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 5%;
+    gap: 2rem;
 }
 
-Review
-{
-    display:block; font-size:12pt; color: #0000FF;
+Film {
+    background: #069494;
+    padding: 2em;
+    border-radius: 25px;
+    color: #fff;
 }
 
-Pemain1, Pemain2, Pemain3
-{
-    display:block; font-size:12pt; margin-left:20pt;
+Judul {
+    display: block;
+    font-size: 16pt;
+    font-weight: bold;
+    color: #ffe600;
+    margin-bottom: 0.5rem;
 }
 
-Studio
-{
-    font-weight:bold;
+Sutradara,
+Genre,
+Studio {
+    display: block;
+    font-size: 12pt;
+}
+
+Review {
+    display: inline-block;
+    font-size: 12pt;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    color: #000;
+    background: #ffe600;
+    margin: 1rem 0;
+}
+
+Pemain1,
+Pemain2,
+Pemain3 {
+    display: block;
+    font-size: 12pt;
+    margin-left: 20pt;
+}
+
+Studio {
+    font-weight: bold;
 }

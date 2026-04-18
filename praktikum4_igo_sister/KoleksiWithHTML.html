@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktikum 5 - Sistem Terdistribusi XML</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+            max-width: 700px;
+            width: 100%;
+        }
+
+        h1 {
+            color: #ff4757;
+            text-shadow: 2px 2px #ffecd2;
+            margin-bottom: 20px;
+            font-size: 28px;
+        }
+
+        p {
+            color: #2f3542;
+            line-height: 1.6;
+        }
+
+        ol {
+            padding: 0;
+            list-style: none;
+        }
+
+        ol li {
+            margin-bottom: 15px;
+        }
+
+        ol li a {
+            display: block;
+            padding: 15px 20px;
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            border-radius: 10px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        ol li:nth-child(1) a { background-color: #54a0ff; } 
+        ol li:nth-child(2) a { background-color: #5f27cd; } 
+        ol li:nth-child(3) a { background-color: #ff9f43; }
+
+        ol li a:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            filter: brightness(1.1);
+        }
+
+        .footer {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px dashed #ffeaa7;
+            font-size: 13px;
+            color: #747d8c;
+        }
+
+        .contact {
+            color: #ff4757;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Ini Homepage Igo Tegar Prambudhy - Sistem Terdistribusi XML</h1>
+        
+        <p>Homepage ini adalah hasil praktek pada latihan XML, 
+        XML dengan CSS dan XML dengan XSL yang dibuat di Lab Amikom Purwokerto.
+        Klik menu berwarna di bawah ini untuk menampilkan data hasil praktikum.</p>
+
+        <ol>
+            <li>
+                <a href="./Koleksi.xml">📂 Menampilkan data koleksi film</a>
+            </li>
+            <li>
+                <a href="./KoleksiWithCSS.xml">🎨 Menampilkan data koleksi film (CSS)</a>
+            </li>
+            <li>
+                <a href="./KoleksiDataXSL.xml">📜 Menampilkan data koleksi film (XSL)</a>
+            </li>
+        </ol>
+
+        <div class="footer">
+            <p>Selamat menggunakan!</p>
+            <p>Homepage ini dirancang oleh: <b>Igo Tegar Prambudhy</b> &copy; <span id="year"></span><br>
+            Kontak: <span class="contact">igostrong@gmail.com</span></p>
+        </div>
+    </div>
+</body>
+<script>
+    document.getElementById("year").innerHTML = new Date().getFullYear()
+</script>
+
+</html>
+
