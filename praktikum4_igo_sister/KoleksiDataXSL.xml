@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="KoleksiWithXSL.xsl"?>
+<Koleksi>
+    <Film>
+        <Judul>Captain Amerika: Civil War</Judul>
+        <Sutradara>Anthony Russo, Joe Russo</Sutradara>
+        <Genre>Superhero, Aksi, Fantasi</Genre>
+        <Pemain1>Chris Evans</Pemain1>
+        <Pemain2>Scarlett Johansson</Pemain2>
+        <Pemain3>Robert Downey Jr</Pemain3>
+        <Review>Film ini menceritakan bahwa Captain Amerika dan Iron Man harus bertarung satu sama lain karena kesalah pahaman.</Review>
+        <Studio>Marvel Studios</Studio>
+    </Film>
+    <Film>
+        <Judul>X-Men: Apocalypse</Judul>
+        <Sutradara>Bryan Singer</Sutradara>
+        <Genre>Superhero, Aksi</Genre>
+        <Pemain1>James McAvoy</Pemain1>
+        <Pemain2>Hugh Jackman</Pemain2>
+        <Pemain3>Jennifer Lawrence</Pemain3>
+        <Review>Professor X dan mutan lainnya harus menghadapi musuh terbarunya yang bernama Apocalypse.</Review>
+        <Studio>20th Century Fox</Studio>
+    </Film>
+    <Film>
+        <Judul>The Divergent Series: Allegiant</Judul>
+        <Sutradara>Robert Schwentke</Sutradara>
+        <Genre>Fantasi, Petualangan</Genre>
+        <Pemain1>Shailene Woodley</Pemain1>
+        <Pemain2>Theo James</Pemain2>
+        <Pemain3>Miles Teller</Pemain3>
+        <Review>Film ini berkisah tentang pembagian manusia menjadi 5 kelompok. manusia yang tidak termasuk dalam salah satu dari 5 kelompok tersebut disebut "Divergent"</Review>
+        <Studio>Summit Entertainment</Studio>
+    </Film>
+</Koleksi>
