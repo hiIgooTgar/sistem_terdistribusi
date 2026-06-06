@@ -1,0 +1,59 @@
+<?php
+
+namespace App\Models;
+
+use CodeIgniter\Model;
+
+class JabatanModel extends Model
+{
+    protected $table            = 'tb_jabatan';
+    protected $primaryKey       = 'id_jabatan';
+    protected $useAutoIncrement = true;
+    protected $returnType       = 'array';
+    protected $useSoftDeletes   = false;
+    protected $protectFields    = true;
+    protected $allowedFields    = ['id_jabatan', 'nama_jabatan'];
+
+    protected bool $allowEmptyInserts = false;
+    protected bool $updateOnlyChanged = true;
+
+    protected array $casts = [];
+    protected array $castHandlers = [];
+
+    protected $useTimestamps = false;
+    protected $dateFormat    = 'datetime';
+    protected $createdField  = 'created_at';
+    protected $updatedField  = 'updated_at';
+    protected $deletedField  = 'deleted_at';
+
+    protected $validationRules = [
+        'id_jabatan'   => 'required|numeric|is_unique[tb_jabatan.id_jabatan,id_jabatan,{id_jabatan}]',
+        'nama_jabatan' => 'required|min_length[3]|max_length[25]',
+    ];
+
+    protected $validationMessages = [
+        'id_jabatan' => [
+            'required'  => 'ID Jabatan harus diisi.',
+            'numeric'   => 'ID Jabatan harus berupa angka.',
+            'is_unique' => 'ID Jabatan sudah terdaftar.',
+        ],
+        'nama_jabatan' => [
+            'required'   => 'Nama jabatan harus diisi.',
+            'min_length' => 'Nama jabatan minimal 3 karakter.',
+            'max_length' => 'Nama jabatan maksimal 25 karakter.',
+        ],
+    ];
+    protected $skipValidation       = false;
+    protected $cleanValidationRules = true;
+
+    // Callbacks
+    protected $allowCallbacks = true;
+    protected $beforeInsert   = [];
+    protected $afterInsert    = [];
+    protected $beforeUpdate   = [];
+    protected $afterUpdate    = [];
+    protected $beforeFind     = [];
+    protected $afterFind      = [];
+    protected $beforeDelete   = [];
+    protected $afterDelete    = [];
+}
